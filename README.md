@@ -35,13 +35,13 @@
 
 
   <div style="display: flex; align-items: center;">
-    <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank" style="margin-left: 12px; text-decoration: none;">
+    <a href="https://www.youtube.com/channel/UCjWyLLEtv5NWmUoZiFc45Bg" target="_blank" style="margin-left: 12px; text-decoration: none;">
       <img width="512" height="128" alt="TestYoutube" src="https://github.com/user-attachments/assets/5824c2a4-f395-4699-84aa-2f88d2e96718" />
     </a>
   </div>
 
   <div style="display: flex; align-items: center;">
-   <a href="YOUR_TIKTOK_LINK_HERE" target="_blank" style="margin-left: 12px; text-decoration: none;">
+   <a href="https://www.tiktok.com/@cobap687" target="_blank" style="margin-left: 12px; text-decoration: none;">
       <img width="512" height="128" alt="TestTikTok" src="https://github.com/user-attachments/assets/6191291b-2745-49a8-b0e7-1423463072e5" />
     </a>
   </div>
