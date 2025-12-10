@@ -1,15 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-**Cobap-B/Cobap-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="margin-bottom: 0;">Cobap</h1>
+<h2 style="margin-top: 0;">Roblox Developer</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.roblox.com/users/1033244563/profile#!#creations" target="_blank">
+  <img width="512" height="128" alt="TestRoblox" src="https://github.com/user-attachments/assets/50fdd66e-42ba-41f6-b02a-1fd06f767ad7" />
+</a>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 🔧 **Projects I'm Working On**
+
+### **Miner's Quest**
+🎮 https://www.roblox.com/games/14038538143/Miners-Quest-Simulator
+
+...
+
+<br/>
+
+---
+
+<br/>
+
+
+## 🌐 Social Media
+
+
+
+
+  <div style="display: flex; align-items: center;">
+    <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank" style="margin-left: 12px; text-decoration: none;">
+      <img width="512" height="128" alt="TestYoutube" src="https://github.com/user-attachments/assets/5824c2a4-f395-4699-84aa-2f88d2e96718" />
+    </a>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+   <a href="YOUR_TIKTOK_LINK_HERE" target="_blank" style="margin-left: 12px; text-decoration: none;">
+      <img width="512" height="128" alt="TestTikTok" src="https://github.com/user-attachments/assets/6191291b-2745-49a8-b0e7-1423463072e5" />
+    </a>
+  </div>
+
+</div>
+
+</ul>
+
+
 
